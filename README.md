@@ -58,4 +58,4 @@ The objective of this report is to compare and analyze the performance of Autoen
 - Autoencoder and Variational Autoencoder are effective in reconstructing images with AE achieving a lower loss compared to VAE.
 - VAE introduces a trade-off between reconstruction loss and KL Divergence, resulting in a higher overall loss.
 - GANs demonstrate the capability to generate new images, with the discriminator and generator losses showing a dynamic interplay during training.
-- Each model has its strengths and weaknesses, making them suitable for different image generation tasks based on specific requirements and constraints.
+- Each model has its strengths and weaknesses, making them suitable for different image generation tasks based on specific requirements and constraints  .
